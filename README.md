@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatishChandu
-- 👀 I’m interested in Software Development in ReactJs.
-- 🌱 I’m currently learning Backend technologies like Python & etc.
+- 👀 I’m interested in Software Development using ReactJs.
+- 🌱 I’m currently learning Backend technologies like Python, Java & etc.
 - 💞️ I’m looking forward to collaborate with Development Community.
 - 📫 How to reach me bnvskumarchandu2@gmail.com
 - 😄 Pronouns: Satish Kumar
