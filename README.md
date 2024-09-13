@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development using ReactJs.
 - 🌱 I’m currently learning Backend technologies like Python, Java.
 - 💞️ I’m looking forward to collaborate with Development Community.
-- 📫 How to reach me bnvskumarchandu2@gmail.com
+- 📫 How to reach me bnvskumarchandu2@gmail.com or satishkumar.chandu96@gmail.com
 - 😄 Pronouns: Satish Kumar
 - ⚡ Fun fact: Developer
 
